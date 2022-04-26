@@ -3,6 +3,7 @@
 using namespace std;
 
 class Proses {
+	
 	public :
 		void cetak(){
 			cout << "Anda sebagai Proses \n";

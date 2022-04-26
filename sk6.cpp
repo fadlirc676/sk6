@@ -5,6 +5,7 @@
 #include "ouput.h"
 
 int main(){
+	
 	Input input;
 	input.cetak();
 	input.toFile();

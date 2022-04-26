@@ -3,8 +3,10 @@
 using namespace std;
 
 class Output {
-	public :
+
+	public : 
 		void cetak(){
+      
       cout << "\n==============================================";
 			cout << "\nSTUDI KASUS MENCARI NILAI MAKSIMUM,MINIMUM,DAN RATA-RATA \n";
 			cout << "\nNama Dosen : Pak Ardi Pujiyanta";

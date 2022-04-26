@@ -3,6 +3,7 @@
 using namespace std;
 
 class Input {
+  
 	public :
 
     void cetak(){
